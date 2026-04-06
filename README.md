@@ -11,7 +11,7 @@
 3. เพื่อศึกษาผลกระทบของการจัดการข้อมูลที่ไม่สมดุล (Imbalanced Data) ต่อประสิทธิภาพของโมเดล
 
 ## 🛠️ วิธีการดำเนินงาน (Methodology)
-![Pipeline ของโครงงาน](pipeline.png)
+![Pipeline ของโครงงาน](Methodology.png)
 
 ### 1. ข้อมูลที่ใช้ (Dataset)
 * **แหล่งที่มา:** ข้อมูลแชทสดจาก Twitch และ YouTube ในการแข่งขันเกม Valorant และ Dota2
